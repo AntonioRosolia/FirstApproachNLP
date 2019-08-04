@@ -1,4 +1,4 @@
-# FirstApproachNLP
+# Erster Versuch in NLP
 
 ## Einleitung
 Es wurde ein Datensatz gewählt, welcher unterschiedliche Interpreten und die dazugehörigen Songtexte beinhaltet. Aus diesem Datensatz soll ein Lerner generiert werden, welcher im Stande ist, Songtexte dem Interpreten zu zuweisen.
